@@ -33,3 +33,5 @@ WHERE cancelled_at IS NULL;
 
 -- 加分題（選做）：使用部分索引（partial index）讓工單 2 的索引更小、更有效率
 
+
+
